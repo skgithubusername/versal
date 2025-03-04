@@ -416,12 +416,77 @@ const initialCards = [
   },
   { 
     id: 4, 
-    title: "Business Retreat", 
-    category: "Corporate", 
-    description: "Professional environment for teams", 
-    price: 499,
-    videoUrl: "/video1.mp4"
+    title: "Family Fun", 
+    category: "Group", 
+    description: "The Manor ,Hideaway in the hills of Manali", 
+    price: 299,
+    videoUrl: "/video4.mp4"
   },
+  { 
+    id: 5, 
+    title: "Family Fun", 
+    category: "Group", 
+    description: "Rosemary Cottage, Manali , Nestled in the embrace of lush rolling hills", 
+    price: 299,
+    videoUrl: "/video5.mp4"
+  },
+  { 
+    id: 6, 
+    title: "Family Fun", 
+    category: "Group", 
+    description: "Nau Nabh Cottage , Shimla", 
+    price: 299,
+    videoUrl: "/video6.mp4"
+  },
+  { 
+    id: 7, 
+    title: "Family Fun", 
+    category: "Group", 
+    description: "Eastbury , Shimla , Perched on a slope amidst greenery", 
+    price: 299,
+    videoUrl: "/video7.mp4"
+  },
+  { 
+    id: 8, 
+    title: "Family Fun", 
+    category: "Group", 
+    description: "The Little House shimla , A gem nestled amidst the picturesque hill", 
+    price: 299,
+    videoUrl: "/video8.mp4"
+  },
+  { 
+    id: 9, 
+    title: "Family Fun", 
+    category: "Group", 
+    description: "Teer Bangla , An enchanting heaven near Shimla ", 
+    price: 299,
+    videoUrl: "/video9.mp4"
+  },
+  { 
+    id: 10, 
+    title: "Family Fun", 
+    category: "Group", 
+    description: "The Orchard Song , shimla ", 
+    price: 299,
+    videoUrl: "/video10.mp4"
+  },
+  { 
+    id: 11, 
+    title: "Family Fun", 
+    category: "Group", 
+    description: "Sunset Ridge , Kasauli ", 
+    price: 299,
+    videoUrl: "/video11.mp4"
+  },
+  { 
+    id: 12, 
+    title: "Family Fun", 
+    category: "Group", 
+    description: "The Haven , Kasauli", 
+    price: 299,
+    videoUrl: "/video12.mp4"
+  },
+  
 ];
 
 const partyData = [
