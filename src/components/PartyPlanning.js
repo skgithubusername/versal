@@ -25,13 +25,13 @@
 //       <div className="md:w-1/2 text-center md:text-left px-6 md:px-12">
 //         <h1 className="text-3xl   sm:text-3xl lg:text-5xl text-blue-500  font-semibold mb-4">
 //           Party Planning Made Easy
-//           {/* Join the Xploroo 11 Revolution */}
+//           {/* Join the Xploroo11 Revolution */}
 //         </h1>
 //         <p className="text-base sm:text-lg  hidden md:block lg:block   text-gray-700 mb-4">
 //           {/* Life is hard, having fun shouldn't be. Create a shared itinerary, 
 //           launch polls and chat, book top-tier experiences, and even split 
 //           the expenses—all in one place. */}
-//           Xploroo 11 Fantasy Cricket App is a lifestyle platform for cricket fans, offering a unique blend of fantasy cricket, earning opportunities, and immersive cricket experiences.
+//           Xploroo11 Fantasy Cricket App is a lifestyle platform for cricket fans, offering a unique blend of fantasy cricket, earning opportunities, and immersive cricket experiences.
 
 //         </p>
 //         {/* <p className="text-base hidden md:block lg:block  sm:text-lg text-gray-700 mb-4">
@@ -132,10 +132,10 @@ const PartyPlanning = () => {
       <div className="md:w-1/2  text-center md:text-left px-6 md:px-24">
         <h1 className="text-2xl sm:text-2xl lg:text-4xl text-blue-500 font-semibold mb-4">
           {/* Party Planning Made Easy */}
-          Join the Xploroo 11 Revolution
+          Join the Xploroo11 Revolution
         </h1>
         <p className="text-base sm:text-lg hidden md:block lg:block text-gray-700 mb-4">
-          Xploroo 11 Fantasy Cricket App is a lifestyle platform for cricket fans, offering a unique blend of fantasy cricket, earning opportunities, and immersive cricket experiences.
+          Xploroo11 Fantasy Cricket App is a lifestyle platform for cricket fans, offering a unique blend of fantasy cricket, earning opportunities, and immersive cricket experiences.
         </p>
         <p className="text-lg font-semibold mb-4">Download the App today!</p>
 

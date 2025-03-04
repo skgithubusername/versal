@@ -29,7 +29,7 @@
 // </h2> */}
 
 //         <h2 className="text-3xl  lg:mb-24 lg:text-center sm:text-4xl lg:text-5xl text-blue-500 font-semibold mb-12 font-[Mulish]   text-start tracking-normal">
-//           What is Xploroo 11 Fantasy Cricket App?
+//           What is Xploroo11 Fantasy Cricket App?
 
 //         </h2>
 
@@ -41,7 +41,7 @@
 //           {/* Left Side - Text Content */}
 //           <div className="md:w-1/2 text-left md:pr-6">
 //             <p className=" font-semibold text-lg">
-//               Xploroo 11 is a next-generation fantasy cricket platform offering innovative features, including:
+//               Xploroo11 is a next-generation fantasy cricket platform offering innovative features, including:
 
 //             </p>
 //             <h2 className="text-2xl font-semibold mb-4">Key Features:
@@ -221,7 +221,7 @@
 //       </ul>
 //       <div className="text-center mt-6">
 //         <button className="px-5 py-2 bg-black text-white rounded-md hover:bg-gray-800 transition">
-//           Join Xploroo 11 & Start Winning!
+//           Join Xploroo11 & Start Winning!
 //         </button>
 //       </div>
 //     </div> */}
@@ -281,14 +281,14 @@ const PartyPlanningPage = () => {
       <div className="flex min-h-screen pb-12 font-[Mulish] flex-col px-4 sm:px-6 md:px-12 lg:px-16 pt-8 md:pt-12">
         {/* Heading */}
         <h2 className="text-2xl px-12 text-2xl sm:text-2xl lg:text-4xl text-blue-500 font-semibold mb-8 md:mb-12 lg:mb-24 text-start md:text-center font-[Mulish] tracking-normal">
-        What is Xploroo 11 Fantasy Cricket App?
+        What is Xploroo11 Fantasy Cricket App?
         </h2>
 
         <div className="flex flex-col px-12 md:flex-row justify-between items-start w-full max-w-6xl mx-auto">
           {/* Left Side - Text Content */}
           <div className="md:w-1/2 text-left md:pr-6">
             <p className=" font-semibold text-lg">
-              Xploroo 11 is a next-generation fantasy cricket platform offering innovative features, including:
+              Xploroo11 is a next-generation fantasy cricket platform offering innovative features, including:
 
             </p>
             <h2 className="text-2xl font-semibold mb-4">Key Features:

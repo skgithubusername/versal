@@ -9,14 +9,18 @@ export default function Footer() {
         {/* Left Side */}
         <div>
           {/* Logo */}
-          <Link href="/" className="flex items-center">
+        <div className = " flex items-center">
+        <Link href="/" className="flex items-center">
             <img
-              src="https://cdn.prod.website-files.com/64fa108e839f28abd896df84/65f0d22566f7d49d07b1adf4_batch%20logo.svg"
-              className="h-8 w-auto object-cover"
+               src="/logo2.png"
+              className="h-24 w-auto object-cover"
               alt="Logo"
               loading="lazy"
             />
           </Link>
+         <h2 className=" mt-20  font-semibold text-lg text-teal-500">Xploroo11</h2>
+
+        </div>
 
           {/* App Download Buttons */}
           <div className="flex gap-4 mt-6">

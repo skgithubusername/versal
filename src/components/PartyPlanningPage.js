@@ -110,7 +110,7 @@
 
 // <h2 className="text-3xl lg:text-center  sm:text-4xl lg:text-5xl text-blue-500 font-semibold lg:mb-24 mb-12 font-[Mulish]   text-start tracking-normal">
   
-// Why Choose Xploroo 11 11?
+// Why Choose Xploroo11 11?
 
 // </h2>
 
@@ -340,7 +340,7 @@ const PartyPlanningPage = () => {
       <div className="flex min-h-screen pb-12 font-[Mulish] flex-col px-4 sm:px-6 md:px-12 lg:px-16 pt-8 md:pt-12">
         {/* Heading */}
         <h2 className="text-2xl mt-12 px-12  sm:text-2xl lg:text-4xl text-blue-500 font-semibold mb-8 md:mb-12 lg:mb-24 text-start md:text-center font-[Mulish] tracking-normal">
-          Why Choose Xploroo 11 ?
+          Why Choose Xploroo11 ?
         </h2>
 
         <div className="flex flex-col px-12 md:flex-row justify-between items-start w-full max-w-6xl mx-auto">
