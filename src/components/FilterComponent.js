@@ -1438,7 +1438,8 @@ const PartyFilterComponent = () => {
     }
   };
   return (
-    <div className="w-full mb-20 max-w-6xl mx-auto p-4">
+    <>
+    <div className="w-full     px-12  p-4">
       <div className="flex items-center justify-between gap-3 md:gap-4 mb-8">
     
     {/* Desktop Search Bar */}
@@ -1541,23 +1542,33 @@ const PartyFilterComponent = () => {
 
   
 
-<div className="grid  grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-  {filteredCards.length > 0 ? (
-    filteredCards.map((card) => (
-      <VideoBackgroundCard 
-        key={card.id} 
-        card={card} 
-        onClick={() => router.push(`/details/${card.id}`)}
-      />
-    ))
-  ) : (
-    <div className="flex flex-col items-center justify-center w-full col-span-4 text-gray-500">
-      <AlertCircle size={48} />
-      <p className="mt-2 text-lg font-semibold">No results found</p>
+{/*  */}
     </div>
-  )}
+
+<div className="grid bg-gray-100 px-12 pb-24  py-12  grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+{filteredCards.length > 0 ? (
+  filteredCards.map((card) => (
+    <VideoBackgroundCard 
+      key={card.id} 
+      card={card} 
+      onClick={() => router.push(`/details/${card.id}`)}
+    />
+  ))
+) : (
+  <div className="flex flex-col items-center justify-center w-full col-span-4 text-gray-500">
+    {/* <AlertCircle size={48} /> */}
+    <img
+             src="/error.jpg"
+            className="h-24 w-auto object-cover"
+            alt="Logo"
+            loading="lazy"
+          />
+   
+    <p className="mt-2 text-lg font-semibold">No results found</p>
+  </div>
+)}
 </div>
-    </div>
+   </>
   );
 };
 
