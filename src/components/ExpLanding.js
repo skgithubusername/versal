@@ -61,16 +61,16 @@ const partyData = [
       {/* Content */}
       <div className="relative z-10 flex flex-col items-center">
         <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold mb-4 sm:mb-6">
-        Weekend Gateways
+        Weekend Gateway for winners
         </h1>
-        <div className="flex flex-wrap justify-center bg-gray-200 gap-2 sm:gap-4 rounded-full ">
+        {/* <div className="flex flex-wrap justify-center bg-gray-200 gap-2 sm:gap-4 rounded-full ">
           <button className="flex items-center gap-1 sm:gap-2 px-4 sm:px-8 py-1 sm:py-3 text-sm sm:text-lg hover:bg-white rounded-full font-semibold text-gray-900 transition duration-300">
             <FaMapMarkerAlt className="text-gray-700 text-base sm:text-lg" /> Choose a City
           </button>
           <button className="flex items-center gap-1 sm:gap-2 px-4 sm:px-8 py-1 sm:py-3 text-sm sm:text-lg hover:bg-white rounded-full font-semibold text-gray-900 transition duration-300">
             <FaCalendarAlt className="text-gray-700 text-base sm:text-lg" /> Add Dates
           </button>
-        </div>
+        </div> */}
       </div>
     </div>
     {/*  */}

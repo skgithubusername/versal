@@ -277,9 +277,9 @@ const Navbar = () => {
         <div className="hidden lg:flex space-x-6 font-medium items-center">
           {[
             { path: "/experience", label: "Experience" },
-            { path: "/party-guides", label: "Party Guides" },
-            { path: "/blog", label: "Blog" },
-            { path: "/about", label: "About" },
+            // { path: "/party-guides", label: "Party Guides" },
+            // { path: "/blog", label: "Blog" },
+            // { path: "/about", label: "About" },
           ].map((link, index) => (
             <Link
               key={index}
@@ -291,11 +291,11 @@ const Navbar = () => {
           ))}
 
           {/* Login Button */}
-          <Link href="/login">
+          {/* <Link href="/login">
             <button className="flex items-center px-5 py-2 rounded-lg font-medium">
               <FaUser className="mr-2" /> Login
             </button>
-          </Link>
+          </Link> */}
 
           {/* Get App Button */}
           <Link href="/get-app">
@@ -329,9 +329,9 @@ const Navbar = () => {
             <div className="flex flex-col items-center space-y-3 py-4">
               {[
                 { path: "/experience", label: "Experience" },
-                { path: "/party-guides", label: "Party Guides" },
-                { path: "/blog", label: "Blog" },
-                { path: "/about", label: "About" },
+                // { path: "/party-guides", label: "Party Guides" },
+                // { path: "/blog", label: "Blog" },
+                // { path: "/about", label: "About" },
               ].map((link, index) => (
                 <Link
                   key={index}

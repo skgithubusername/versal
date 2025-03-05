@@ -18,7 +18,7 @@ export default function Footer() {
               loading="lazy"
             />
           </Link>
-         <h2 className=" mt-20  font-semibold text-lg text-teal-500">Xploroo11</h2>
+         {/* <h2 className=" mt-20  font-semibold text-lg text-teal-500">Xploroo11</h2> */}
 
         </div>
 
