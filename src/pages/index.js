@@ -1,4 +1,5 @@
 
+import FilterableCards from "@/components/FilterableCards";
 import Footer from "@/components/Footer";
 import PartyPlanning from "@/components/PartyPlanning";
 import PartyPlanningPage from "@/components/PartyPlanningPage";
@@ -9,10 +10,11 @@ export default function Home() {
   return (
     <div className="  min-h-full  bg-white">
     
-      <PartyPlanning/>
+    <FilterableCards/>
+      {/* <PartyPlanning/>
       <PartyPlanningPage/>
       <PartyPlanningPage2/>
-      <Footer/>
+      <Footer/> */}
 
       {/* <SliderCard/> */}
     </div>
