@@ -311,9 +311,9 @@ const cardsData = {
     },
     {
       id: 3,
-      images: ["/images/goa/Casa De Fiesta/goa1.jpg","/images/goa/Casa De Fiesta/goa2.jpg" , "/images/goa/Casa De Fiesta/goa3.jpg", "/images/goa/Casa De Fiesta/goa4.jpg", "/images/Casa De Fiesta/goa/goa5.jpg"],
+      images: ["/images/goa/Casa De Fiesta/goa1.jpg","/images/goa/Casa De Fiesta/goa2.jpg" , "/images/goa/Casa De Fiesta/goa3.jpg", "/images/goa/Casa De Fiesta/goa4.jpg","/images/goa/Casa De Fiesta/goa5.jpg",],
       title: "Casa De Fiesta",
-      description: "Enjoy the serene beaches of Goa."
+      description: "Enjoy the  of Goa."
     },
     {
       id: 4,
@@ -323,7 +323,7 @@ const cardsData = {
     },
     {
       id: 5,
-      images: ["/images/goa/Waterlily/goa1.jpg", "/images/goa/Waterlily/goa2.jpg","/images/goa/Waterlily/goa3.jpg", "/images/goa/Waterlily/goa4.jpg", "/images/goa/Waterlily/goa5.jpg"],
+      images: ["/images/goa/Waterlily/goa1.jpg", "/images/goa/Waterlily/goa2.jpg","/images/goa/Waterlily/goa3.jpg", "/images/goa/Waterlily/goa4.jpg", "/images/goa/Waterlily/goa5.webp"],
 
       title: "Waterlily",
       description: "Enjoy the serene beaches of Goa."
@@ -383,7 +383,7 @@ const cardsData = {
     },
     {
       id: 14, 
-      images: ["/images/Utrakhand/The Willowfield/u1.jpg","/images/Utrakhand/The Willowfield/u2.webp" , "/images/Utrakhand/The Willowfield/u4.jpg", "/images/Utrakhand/The Willowfield/u3.webp", "/images/Utrakhand/The Willowfield/u5.jpg"],
+      images: ["/images/Utrakhand/The Willowfield/u1.jpg","/images/Utrakhand/The Willowfield/u2.jpg" , "/images/Utrakhand/The Willowfield/u4.jpg", "/images/Utrakhand/The Willowfield/u3.jpg", "/images/Utrakhand/The Willowfield/u5.jpg"],
       title: "The Willowfield",
       description: "Enjoy the serene beaches of Utrakhand."
     },
