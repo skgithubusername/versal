@@ -70,7 +70,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <p className="mt-6 text-sm text-gray-400">
-            Copyright © 2023 Batch. All rights reserved |{" "}
+            Copyright © 2025 Batch. All rights reserved |{" "}
             <span className="hover:underline cursor-pointer">Privacy</span> |{" "}
             <span className="hover:underline cursor-pointer">Terms</span>
           </p>

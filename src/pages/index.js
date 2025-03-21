@@ -10,11 +10,11 @@ export default function Home() {
   return (
     <div className="  min-h-full  bg-white">
     
-    <FilterableCards/>
-      {/* <PartyPlanning/>
+    {/* <FilterableCards/> */}
+      <PartyPlanning/>
       <PartyPlanningPage/>
       <PartyPlanningPage2/>
-      <Footer/> */}
+      <Footer/>
 
       {/* <SliderCard/> */}
     </div>
